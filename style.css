@@ -1,0 +1,25 @@
+body{
+    font-family: 'Mynerve', cursive;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.container{
+    width: 85%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    padding: 18px;
+    user-select: none;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+small{
+    user-select: none;
+    font-size: 16px;
+}
+.text{
+    padding-top: 15px;
+}
